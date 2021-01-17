@@ -1,2 +1,5 @@
 # react
-Starter project for react app
+## Quick Overview
+```shell
+npm start
+```
